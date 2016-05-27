@@ -16,6 +16,12 @@ public class Aprendiendo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        
+        Integer valor=1;
+        Integer valor2=300;
+        
+        System.out.println(valor+valor2);
     }
     
 }
