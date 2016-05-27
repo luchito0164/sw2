@@ -18,7 +18,7 @@ public class Aprendiendo {
         // TODO code application logic here
         
         
-        Integer valor=1;
+        Integer valor=400;
         Integer valor2=300;
         
         System.out.println(valor+valor2);
